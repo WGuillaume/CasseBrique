@@ -1,2 +1,1 @@
-
-Une application en java qui gère des déplacements aléatoires de balle sur l'écran de différentes tailles avec une effet ombres
+Une application en java qui permet de gérer le mouvement aléatoire de balles de différentes tailles à l'écran, accompagné d'effet d'ombres les suivant.
